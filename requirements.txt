@@ -1,0 +1,8 @@
+openai
+python-dotenv
+py-cord
+wikipedia
+langchain
+google-search-results
+wolframalpha
+newsapi-python
