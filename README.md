@@ -13,7 +13,7 @@ Bone Goblin Chatbot is a fun and helpful Discord bot skeleton that speaks like a
 1. Clone this repository to your local machine.
 2. Install the required Python libraries: `pip install -r requirements.txt`
 3. Set up an `.env` file with your Discord and API keys. We provide an example in env_example.
-4. Run the bot: `python main.py`
+4. Run the bot: `python bot.py`
 5. Remove any Tools you don't want or rewrite the prompt completely.
 
 ## Usage 🎮
