@@ -18,14 +18,9 @@ Bone Goblin Chatbot is a fun and helpful Discord bot skeleton that speaks like a
 
 ## Required API Keys for full functionality 🔑
 
-[Serapi]: https://serpapi.com/manage-api-key
-
-[Wolframalpha]: https://developer.wolframalpha.com/portal/myapps/
-
-[newsapi]: https://newsapi.org/register
-
-https://discord.com/developers/applications
-
+* [Serapi](https://serpapi.com/manage-api-key)
+* [Wolframalpha](https://developer.wolframalpha.com/portal/myapps/)
+* [newsapi](https://newsapi.org/register)
 
 ## Discord Intents 🤖
 
@@ -34,7 +29,7 @@ For the discord bot to work you need to setup the correct Privileged Intents on 
 This is the important part:
 ![alt_text](https://discordpy.readthedocs.io/en/latest/_images/discord_privileged_intents.png "Discord Intent options")
 
-[Source and more info on intents]:https://discordpy.readthedocs.io/en/latest/intents.html?highlight=intents
+[Source and more info on intents](https://discordpy.readthedocs.io/en/latest/intents.html?highlight=intents)
 
 ## Usage 🎮
 
