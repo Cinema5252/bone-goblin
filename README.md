@@ -16,6 +16,26 @@ Bone Goblin Chatbot is a fun and helpful Discord bot skeleton that speaks like a
 4. Run the bot: `python bot.py`
 5. Remove any Tools you don't want or rewrite the prompt completely.
 
+## Required API Keys for full functionality 🔑
+
+[Serapi]: https://serpapi.com/manage-api-key
+
+[Wolframalpha]: https://developer.wolframalpha.com/portal/myapps/
+
+[newsapi]: https://newsapi.org/register
+
+https://discord.com/developers/applications
+
+
+## Discord Intents 🤖
+
+For the discord bot to work you need to setup the correct Privileged Intents on the [Discord Dev Page]: https://discord.com/developers/applications
+
+This is the important part:
+![alt_text](https://discordpy.readthedocs.io/en/latest/_images/discord_privileged_intents.png "Discord Intent options")
+
+[Source and more info on intents]:https://discordpy.readthedocs.io/en/latest/intents.html?highlight=intents
+
 ## Usage 🎮
 
 Mention the Goblin Chatbot in your Discord server, and it will respond to your questions and engage in conversation with users. It uses a variety of tools to fetch information and provide helpful answers. 🌿💨🎉
